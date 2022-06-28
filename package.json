@@ -1,7 +1,7 @@
 {
   "name": "mern-shopping",
   "version": "1.0.0",
-  "description": "Week 22 In Class Assignment",
+  "description": "",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
@@ -15,13 +15,5 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Sccr0123/Shop-Shop.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Sccr0123/Shop-Shop/issues"
-  },
-  "homepage": "https://github.com/Sccr0123/Shop-Shop#readme"
+  }
 }
